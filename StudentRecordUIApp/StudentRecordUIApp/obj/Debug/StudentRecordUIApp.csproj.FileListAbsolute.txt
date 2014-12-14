@@ -1,0 +1,10 @@
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\bin\Debug\StudentRecordUIApp.exe.config
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\bin\Debug\StudentRecordUIApp.exe
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\bin\Debug\StudentRecordUIApp.pdb
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\bin\Debug\CSVLib.dll
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.csprojResolveAssemblyReference.cache
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.StudentRecordUI.resources
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.Properties.Resources.resources
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.csproj.GenerateResource.Cache
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.exe
+F:\14DecRBM\StudentRecordUIApp\StudentRecordUIApp\obj\Debug\StudentRecordUIApp.pdb

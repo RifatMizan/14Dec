@@ -1,0 +1,9 @@
+F:\14DecRBM\salaryTextApp\salaryTextApp\bin\Debug\salaryTextApp.exe.config
+F:\14DecRBM\salaryTextApp\salaryTextApp\bin\Debug\salaryTextApp.exe
+F:\14DecRBM\salaryTextApp\salaryTextApp\bin\Debug\salaryTextApp.pdb
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.csprojResolveAssemblyReference.cache
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.EmployeeSalary.resources
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.Properties.Resources.resources
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.csproj.GenerateResource.Cache
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.exe
+F:\14DecRBM\salaryTextApp\salaryTextApp\obj\Debug\salaryTextApp.pdb
